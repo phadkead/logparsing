@@ -93,7 +93,7 @@ public class LogParserTest {
     LogParser parser = new LogParser(path);
 
     int actual = parser.getTotalUniqueIpAddresses(map);
-    assertEquals(5, actual);
+    assertEquals(2, actual);
   }
 
   @Test
