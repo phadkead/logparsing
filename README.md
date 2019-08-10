@@ -5,9 +5,7 @@
 The goal of the assignment is to create a solution we can use to have a conversation about your software
 development skills. To this end we are looking for readable code and passing tests.
 Please provide a solution that meets the deliverables stated below.
-## Time and effort
-Our expectation is that this assignment should take roughly one hour. If you find yourself spending more
-time you may want to revisit your approach or ask for clarification.
+
 ## The task
 The task is to parse a log file containing HTTP requests and to report on its contents.
 For a given log file we want to know,
